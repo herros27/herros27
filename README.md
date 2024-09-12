@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemas Khairunsyah</h1>
-<h3 align="center">A passionate beginner proggrammer from Indonesia</h3>
+<h3 align="center">A passionate beginner proggrammer from Indonesia, and this my new account</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herros27&label=Profile%20views&color=0e75b6&style=flat" alt="herros27" /> </p>
 
