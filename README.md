@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemas Khairunsyah</h1>
 <h3 align="center">A passionate beginner proggrammer from Indonesia, and this my new account</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herros27&label=Profile%20views&color=0e75b6&style=flat" alt="herros27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herros27" alt="herros27" /></a> </p>
-
 - 🔭 I’m currently studying on **Ahmad Dahlan University**
 
 - 🌱 I’m currently learning **Mobile Learning Path from Bangkit Academy**
