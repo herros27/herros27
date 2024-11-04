@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemas Khairunsyah</h1>
 <h3 align="center">A passionate beginner proggrammer from Indonesia, and this my new account</h3>
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently studying on Ahmad Dahlan University<br><br>🌱 I’m currently learning Mobile Learning Path from Bangkit Academy<br><br>💬 Ask me about Node, kotlin, and firebase<br><br>📫 How to reach me khairunsyah8935@gmail.com<br><br>⚡ Fun fact I think i am a introvert
 
 
