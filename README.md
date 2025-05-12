@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 👨‍💻 Here’s a little about me:
 ![Herros27's GitHub stats](https://github-readme-stats.vercel.app/api?username=herros27&show_icons=true&theme=radical)
 
 ## 🔗 Get in Touch
-- 📫 Reach me at: **herros27@example.com**
+- 📫 Reach me at: **khairunsyah8935@gmail.com**
 - 🌐 Visit my portfolio: [herros27.github.io](https://herros27.github.io)
 
 Feel free to explore my repositories and contribute! Let’s build something amazing together. 🚀
