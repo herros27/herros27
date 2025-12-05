@@ -1,24 +1,66 @@
-# 👋 Hi, I’m herros27!
+<div align="center">
 
-Welcome to my GitHub profile! 👨‍💻 Here’s a little about me:
+# 👋 Hi there, I’m <a href="https://github.com/herros27" target="_blank">Herros27</a>!
 
-## 🚀 About Me
-- 🌱 I’m currently learning **web development**, **cloud computing**, and **data science**.
-- 👯 I’m open to collaborating on innovative projects, especially those involving **AI**, **machine learning**, and **open-source tools**.
-- 💬 Ask me about **Python**, **JavaScript**, or **DevOps** practices.
-- ⚡ Fun fact: I’m a tech enthusiast who loves solving puzzles and exploring new technologies.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD5FFF&center=true&vCenter=true&width=435&lines=Web+Development+%26+Cloud;Data+Science+Enthusiast;Open+Source+Collaborator;Always+Learning+New+Tech" alt="Typing SVG" />
+</a>
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Flask, Django
-- **Tools & Platforms**: Docker, Kubernetes, GitHub Actions, AWS, Azure
-- **Databases**: MySQL, PostgreSQL, MongoDB
+<p align="center">
+  <em>"A tech enthusiast who loves solving puzzles and exploring new technologies."</em>
+</p>
 
-## 📈 GitHub Stats
-![Herros27's GitHub stats](https://github-readme-stats.vercel.app/api?username=herros27&show_icons=true&theme=radical)
+<p align="center">
+  <a href="mailto:khairunsyah8935@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portofolio.kemz.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-480ca8?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-## 🔗 Get in Touch
-- 📫 Reach me at: **khairunsyah8935@gmail.com**
-- 🌐 Visit my portfolio: [herros27.github.io](https://herros27.github.io)
+</div>
 
-Feel free to explore my repositories and contribute! Let’s build something amazing together. 🚀
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **Web Development**, and **Mobile Development**.
+- 👯 I’m looking to collaborate on projects involving **AI**, **Machine Learning**, and **Open Source**.
+- 💬 Ask me about **Python**, **JavaScript**, or **Mobile Dev** practices.
+- ⚡ **Fun fact:** I love turning complex problems into simple, elegant code.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/herros27">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=herros27&show_icons=true&theme=shades-of-purple&hide_border=false" />
+</a>
+
+<a href="https://github.com/herros27">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herros27&layout=compact&theme=shades-of-purple&hide_border=false" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Let’s build something amazing together! 🚀</sub>
+</div>
