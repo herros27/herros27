@@ -1,66 +1,50 @@
-<div align="center">
+# Hi there, I'm Kemas 👋
 
-# 👋 Hi there, I’m <a href="https://github.com/herros27" target="_blank">Herros27</a>!
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD5FFF&center=true&vCenter=true&width=435&lines=Web+Development+%26+Cloud;Data+Science+Enthusiast;Open+Source+Collaborator;Always+Learning+New+Tech" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <em>"A tech enthusiast who loves solving puzzles and exploring new technologies."</em>
-</p>
-
-<p align="center">
-  <a href="mailto:khairunsyah8935@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portofolio.kemz.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-480ca8?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-</div>
+Full-stack developer with a foot in both software and hardware — from web & mobile apps to IoT devices talking to the cloud.
 
 ---
 
-### 🚀 About Me
+### 🚀 What I do
 
-- 🌱 I’m currently learning **Web Development**, and **Mobile Development**.
-- 👯 I’m looking to collaborate on projects involving **AI**, **Machine Learning**, and **Open Source**.
-- 💬 Ask me about **Python**, **JavaScript**, or **Mobile Dev** practices.
-- ⚡ **Fun fact:** I love turning complex problems into simple, elegant code.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-</div>
+- 🌐 **Web Development** — building responsive apps with React, Node.js, and Laravel
+- 📱 **Mobile Development** — cross-platform mobile apps
+- 🔌 **IoT / Embedded** — ESP32 & Arduino projects, sensors, and connected devices
+- 🤖 **Data / AI / ML** — data-driven projects and machine learning experiments
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<a href="https://github.com/herros27">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=herros27&show_icons=true&theme=shades-of-purple&hide_border=false" />
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-<a href="https://github.com/herros27">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herros27&layout=compact&theme=shades-of-purple&hide_border=false" />
-</a>
+**Frameworks & Tools**
 
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 ---
 
-<div align="center">
-  <sub>Let’s build something amazing together! 🚀</sub>
-</div>
+### 📊 GitHub Stats
+
+![Kemas's GitHub stats](https://github-readme-stats.vercel.app/api?username=herros27&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herros27&layout=compact&hide_border=true)
+
+---
+
+### 📫 Connect with me
+
+- GitHub: [@herros27](https://github.com/herros27)
+
+---
+
+_Always learning, always building._ 🔧
